@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"trainee"
+			],
+			[
+				"imcreap",
+				"imagecreatefrompng"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"imacop",
+				"imagecopy"
+			],
+			[
+				"TEM",
+				"TEXT_MODE_NORMAL	const int"
+			],
+			[
+				"can",
+				"canvas_height	int"
+			],
+			[
+				"canvas_",
+				"canvas_width	int"
+			],
+			[
+				"KPR",
+				"KEY_PRGM_RIGHT	macro"
+			],
+			[
+				"pla",
+				"player_y_floored"
+			],
+			[
+				"origin",
+				"origin_x"
+			],
+			[
+				"key",
+				"key_dump"
+			],
+			[
+				"grass",
+				"grass_palette"
+			],
+			[
+				"dra",
+				"drawPlayer"
+			],
+			[
+				"draw",
+				"drawSpritePalette"
+			],
+			[
+				"dr",
+				"drawSpritePalette"
+			],
+			[
+				"SC",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"S",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"til",
+				"tilesizey"
+			],
+			[
+				"tile",
+				"tilesizey"
+			],
+			[
+				"Sc",
+				"SCREEN_WIDTH"
+			],
+			[
+				"subl",
+				"sublime_text"
+			],
+			[
+				"blink",
+				"blinkspeed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "projects/paint/src/main.c",
+			"settings":
+			{
+				"buffer_size": 1920,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "prizmsdk.sublime-project",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects/paint/src/routines.h",
+			"settings":
+			{
+				"buffer_size": 2323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects/test/src/sprites.h",
+			"settings":
+			{
+				"buffer_size": 9739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/display_syscalls.h",
+			"settings":
+			{
+				"buffer_size": 4300,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/display.h",
+			"settings":
+			{
+				"buffer_size": 1210,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/keyboard_syscalls.h",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/keyboard.hpp",
+			"settings":
+			{
+				"buffer_size": 6733,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/color.h",
+			"settings":
+			{
+				"buffer_size": 6051,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"scop",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ssl",
+				"Set Syntax: Lua"
+			],
+			[
+				"lice",
+				"Licence Snippet: GPLv2"
+			],
+			[
+				"mit",
+				"Licence Snippet: MIT"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"new sn",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"sslu",
+				"Set Syntax: Lua"
+			],
+			[
+				"st lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"aaa",
+				"z:AAAPackageDev: New Build System"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: hello"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"left",
+				"FindKeyConflicts: (Direct) Conflicts to Buffer"
+			],
+			[
+				"key",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Sweyla's Color Theme Generator: Generate bright!"
+			],
+			[
+				"colo",
+				"Color picker"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/flyingfisch/websites/SOAdvisory2/index.php",
+		"/home/flyingfisch/websites/SOAdvisory2/styles.css",
+		"/home/flyingfisch/Documents/st-pat-quotes.txt",
+		"/home/flyingfisch/websites/aava/dynsig/index.php",
+		"/home/flyingfisch/websites/toppage-new/styles.css",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/prizmsdk.sublime-project",
+		"/media/6FE9-0797/Ysflight/aircraft/aircrafts_of_gac.lst",
+		"/media/6FE9-0797/Ysflight/scenery/scenery_hawaii.lst",
+		"/media/6FE9-0797/Ysflight/ground/ground_buckcarrier.lst",
+		"/media/6FE9-0797/Ysflight/ground/gro_171st_hawaii.lst",
+		"/media/6FE9-0797/Ysflight/scenery/scenery_canary_islands.LST",
+		"/media/6FE9-0797/Ysflight/user/canary_islands/Canary_islands_sunset.fld",
+		"/media/6FE9-0797/Ysflight/scenery/scenery_PROJECTROWE.lst",
+		"/media/6FE9-0797/Ysflight/scenery/HawaiitoSocal_readme.txt",
+		"/media/6FE9-0797/Ysflight/scenery/hawaii.fld",
+		"/media/6FE9-0797/Ysflight/scenery/hawaiigriffon.fld",
+		"/media/6FE9-0797/Ysflight/scenery/scenerygriffon.lst",
+		"/home/flyingfisch/Desktop/Griffon Hawaii/Ground/gro_HF_Hawaii.lst",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/paint/Makefile",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/paint/src/main.c",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeClang/errormarkers.py",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeClang/staticanalyzer.py",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeClang/sublimeclang.py",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeClang/Default.sublime-commands",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeClang/ErrorPanel.tmLanguage",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeClang/sublimeclang.sublime-project",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/src/example.c",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/SublimeClang.sublime-settings",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/src/sprites.h",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/C++/if-..-(if).sublime-snippet",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/paint/build/main.d",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/paint/build/main.o",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/display_syscalls.h",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/display.h",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/keyboard_syscalls.h",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/keyboard.hpp",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/color.h",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/C++/030-for-int-loop-(fori).sublime-snippet",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/paint/selected.bmp",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/paint/unselected.bmp",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/Makefile",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/example/Makefile",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/src/routines.h",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Color Scheme/Espresso Libre2.tmTheme",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/test.sublime-project",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/example/src/example.c",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/common/prizm_rules",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/disp_tools.hpp",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/keyboard.h",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/test/src/test.c",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/test/Makefile",
+		"/home/flyingfisch/PrizmSDK-0.3/examples/make-PrizmSDK/Makefile",
+		"/home/flyingfisch/PrizmSDK-0.3/include/fxcg/keyboard.h",
+		"/home/flyingfisch/PrizmSDK-0.3/include/fxcg/display.h",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/blackbox/Makefile",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/example/src/example.c",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/test/src/example.c",
+		"/home/flyingfisch/PrizmSDK-0.3/examples/test/Makefile",
+		"/home/flyingfisch/PrizmSDK-0.3/examples/test/src/example.c",
+		"/home/flyingfisch/PrizmSDK-0.3/Makefile",
+		"/home/flyingfisch/PrizmSDK-0.3/COPYING",
+		"/home/flyingfisch/luazm/back2BASIC/b2b.lua",
+		"/home/flyingfisch/luazm/back2BASIC/README",
+		"/home/flyingfisch/luazm/aspirin/aspirin.lua",
+		"/home/flyingfisch/luazm/fractals/mandelbrot/mandelbrot.lua",
+		"/home/flyingfisch/luazm/ffgfx/ffgfx.lua",
+		"/home/flyingfisch/luazm/easter-egg/easter.lua",
+		"/home/flyingfisch/luazm/test/test.lua",
+		"/home/flyingfisch/PrizmSDK-0.3/common/prizm_rules",
+		"/usr/include/gmp.h",
+		"/usr/include/gmp-i386.h",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Licence Snippets/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Default/Tab Context.sublime-menu",
+		"/home/flyingfisch/luazm/aspirin/license.txt",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Snippets/GPL-full.sublime-snippet",
+		"/home/flyingfisch/vista-fonts-installer.sh",
+		"/home/flyingfisch/Downloads/source-code-pro-master/build.sh",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Color Scheme/Espresso Libre2.tmTheme.chback",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Super Calculator/Super Calculator.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Super Calculator/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Text/Plain text.tmLanguage",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Text/lorem.sublime-snippet",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/XML/long-tag.sublime-snippet",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Snippets/hello.sublime-snippet",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Restart/Restart.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Restart/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Night/Night.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Refresh/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Refresh/Refresh.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Default/Default.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Night/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Soda/Soda Dark.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - ffisch/Widget.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - ffisch/Soda Dark.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/QuickThemes/QuickThemes.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/QuickThemes.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Default/Context.sublime-menu",
+		"/home/flyingfisch/.config/sublime-text-2/Color Schemes/Espresso Libre.tmTheme",
+		"/home/flyingfisch/.config/sublime-text-2/Settings/Session.sublime_session",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/BufferScroll.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/FindKeyConflicts/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Prefixr/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.gvfs/SFTP for flyingfisch on 192.168.143.241/home/license.txt",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Side Bar.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/VintageEx/README.rst",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+		"/usr/share/applications/sublime.desktop",
+		"/opt/sublime-text-2/Pristine Packages/User.sublime-package",
+		"/usr/share/applications/defaults.list",
+		"/home/flyingfisch/luazm/back2BASIC/demo.lua"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"selection",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".ter",
+			".",
+			".lst",
+			"outlined",
+			"DRAW_OUTLINED",
+			"++)",
+			"rect",
+			"C",
+			"lua",
+			"fold",
+			",",
+			"detect_slow_plugins",
+			"<",
+			"font",
+			"caret",
+			"cursor",
+			"fold.png",
+			"fold",
+			"theme",
+			"Theme - Soda/Soda Dark",
+			"highlight",
+			"unsaved",
+			"highlight",
+			"zmg.fastCopy",
+			"#F5AA7730",
+			"source.php.embedded.block.html ",
+			"html",
+			"text.html.basic",
+			"text.html.basic source.php.embedded.block.html ",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Theme - ffisch/Dark",
+			"b2b.fastCopy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "projects/paint/src/main.c",
+					"settings":
+					{
+						"buffer_size": 1920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "15ac02cb",
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "prizmsdk.sublime-project",
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								140
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "529ede6e",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "projects/paint/src/routines.h",
+					"settings":
+					{
+						"buffer_size": 2323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2323,
+								2323
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "d601a5c7",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "projects/test/src/sprites.h",
+					"settings":
+					{
+						"buffer_size": 9739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "604fb9b7",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "include/display_syscalls.h",
+					"settings":
+					{
+						"buffer_size": 4300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "3a731fef",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "include/display.h",
+					"settings":
+					{
+						"buffer_size": 1210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "4cc45916",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/keyboard_syscalls.h",
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "5c9c4b23",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/keyboard.hpp",
+					"settings":
+					{
+						"buffer_size": 6733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "7252fbbe",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "include/color.h",
+					"settings":
+					{
+						"buffer_size": 6051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								756,
+								762
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "4a47f88e",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 109.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"b2b.lua",
+				"/home/flyingfisch/luazm/back2BASIC/b2b.lua"
+			],
+			[
+				"",
+				"/home/flyingfisch/luazm/back2BASIC/b2b.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,1099 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pla",
+				"player_y_floored"
+			],
+			[
+				"origin",
+				"origin_x"
+			],
+			[
+				"key",
+				"key_dump"
+			],
+			[
+				"grass",
+				"grass_palette"
+			],
+			[
+				"dra",
+				"drawPlayer"
+			],
+			[
+				"draw",
+				"drawSpritePalette"
+			],
+			[
+				"dr",
+				"drawSpritePalette"
+			],
+			[
+				"SC",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"S",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"til",
+				"tilesizey"
+			],
+			[
+				"tile",
+				"tilesizey"
+			],
+			[
+				"Sc",
+				"SCREEN_WIDTH"
+			],
+			[
+				"subl",
+				"sublime_text"
+			],
+			[
+				"blink",
+				"blinkspeed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/flyingfisch/websites/SOAdvisory2/index.php",
+			"settings":
+			{
+				"buffer_size": 1008,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/flyingfisch/websites/SOAdvisory2/styles.css",
+			"settings":
+			{
+				"buffer_size": 3601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/flyingfisch/Documents/st-pat-quotes.txt",
+			"settings":
+			{
+				"buffer_size": 2615,
+				"line_ending": "Unix",
+				"name": "Like the goodness of the five loaves and two fishe"
+			}
+		},
+		{
+			"file": "test.sublime-project",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/example.c",
+			"settings":
+			{
+				"buffer_size": 1976,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/routines.h",
+			"settings":
+			{
+				"buffer_size": 1721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sprites.h",
+			"settings":
+			{
+				"buffer_size": 9739,
+				"line_ending": "Unix",
+				"name": "const color_t grass_palette[97] = {0x5e80, 0x5e60,"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 5279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/display_syscalls.h",
+			"settings":
+			{
+				"buffer_size": 4300,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/display.h",
+			"settings":
+			{
+				"buffer_size": 1210,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/keyboard_syscalls.h",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/keyboard.hpp",
+			"settings":
+			{
+				"buffer_size": 6733,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/color.h",
+			"settings":
+			{
+				"buffer_size": 6051,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssl",
+				"Set Syntax: Lua"
+			],
+			[
+				"lice",
+				"Licence Snippet: GPLv2"
+			],
+			[
+				"mit",
+				"Licence Snippet: MIT"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"new sn",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"sslu",
+				"Set Syntax: Lua"
+			],
+			[
+				"st lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"aaa",
+				"z:AAAPackageDev: New Build System"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: hello"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"left",
+				"FindKeyConflicts: (Direct) Conflicts to Buffer"
+			],
+			[
+				"key",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Sweyla's Color Theme Generator: Generate bright!"
+			],
+			[
+				"scop",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"colo",
+				"Color picker"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/test.sublime-project",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/SublimeClang.sublime-settings",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/common/prizm_rules",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/disp_tools.hpp",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/display.h",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/keyboard.h",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/include/display_syscalls.h",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/test/src/test.c",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/test/Makefile",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/src/example.c",
+		"/home/flyingfisch/PrizmSDK-0.3/examples/make-PrizmSDK/Makefile",
+		"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/Makefile",
+		"/home/flyingfisch/PrizmSDK-0.3/include/fxcg/keyboard.h",
+		"/home/flyingfisch/PrizmSDK-0.3/include/fxcg/display.h",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/blackbox/Makefile",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/example/src/example.c",
+		"/home/flyingfisch/PrizmSDK-0.3/projects/test/src/example.c",
+		"/home/flyingfisch/PrizmSDK-0.3/examples/test/Makefile",
+		"/home/flyingfisch/PrizmSDK-0.3/examples/test/src/example.c",
+		"/home/flyingfisch/PrizmSDK-0.3/Makefile",
+		"/home/flyingfisch/PrizmSDK-0.3/COPYING",
+		"/home/flyingfisch/luazm/back2BASIC/b2b.lua",
+		"/home/flyingfisch/luazm/back2BASIC/README",
+		"/home/flyingfisch/luazm/aspirin/aspirin.lua",
+		"/home/flyingfisch/luazm/fractals/mandelbrot/mandelbrot.lua",
+		"/home/flyingfisch/luazm/ffgfx/ffgfx.lua",
+		"/home/flyingfisch/luazm/easter-egg/easter.lua",
+		"/home/flyingfisch/luazm/test/test.lua",
+		"/home/flyingfisch/PrizmSDK-0.3/common/prizm_rules",
+		"/usr/include/gmp.h",
+		"/usr/include/gmp-i386.h",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Licence Snippets/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Default/Tab Context.sublime-menu",
+		"/home/flyingfisch/luazm/aspirin/license.txt",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Snippets/GPL-full.sublime-snippet",
+		"/home/flyingfisch/vista-fonts-installer.sh",
+		"/home/flyingfisch/Downloads/source-code-pro-master/build.sh",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Color Scheme/Espresso Libre2.tmTheme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Color Scheme/Espresso Libre2.tmTheme.chback",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Super Calculator/Super Calculator.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Super Calculator/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Text/Plain text.tmLanguage",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Text/lorem.sublime-snippet",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/XML/long-tag.sublime-snippet",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Snippets/hello.sublime-snippet",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Restart/Restart.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Restart/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Night/Night.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Refresh/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Refresh/Refresh.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Default/Default.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Night/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - Soda/Soda Dark.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - ffisch/Widget.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Theme - ffisch/Soda Dark.sublime-theme",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/QuickThemes/QuickThemes.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/QuickThemes.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Default/Context.sublime-menu",
+		"/home/flyingfisch/.config/sublime-text-2/Color Schemes/Espresso Libre.tmTheme",
+		"/home/flyingfisch/.config/sublime-text-2/Settings/Session.sublime_session",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/BufferScroll.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/FindKeyConflicts/README.md",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/Prefixr/Default (Linux).sublime-keymap",
+		"/home/flyingfisch/.gvfs/SFTP for flyingfisch on 192.168.143.241/home/license.txt",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/User/Side Bar.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/VintageEx/README.rst",
+		"/home/flyingfisch/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+		"/home/flyingfisch/websites/SOAdvisory2/styles.css",
+		"/usr/share/applications/sublime.desktop",
+		"/opt/sublime-text-2/Pristine Packages/User.sublime-package",
+		"/usr/share/applications/defaults.list",
+		"/home/flyingfisch/luazm/back2BASIC/demo.lua"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"selection",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fold",
+			",",
+			"detect_slow_plugins",
+			"<",
+			"font",
+			"caret",
+			"cursor",
+			"fold.png",
+			"fold",
+			"theme",
+			"Theme - Soda/Soda Dark",
+			"highlight",
+			"unsaved",
+			"highlight",
+			"zmg.fastCopy",
+			"#F5AA7730",
+			"source.php.embedded.block.html ",
+			"html",
+			"text.html.basic",
+			"text.html.basic source.php.embedded.block.html ",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Theme - ffisch/Dark",
+			"b2b.fastCopy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/flyingfisch/websites/SOAdvisory2/index.php",
+					"settings":
+					{
+						"buffer_size": 1008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "a93fc639",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/flyingfisch/websites/SOAdvisory2/styles.css",
+					"settings":
+					{
+						"buffer_size": 3601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "ddf2b2d3",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/flyingfisch/Documents/st-pat-quotes.txt",
+					"settings":
+					{
+						"buffer_size": 2615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Like the goodness of the five loaves and two fishe",
+							"buffer_scroll_name": "1398cafc",
+							"spell_check": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.sublime-project",
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "987dda1d",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "src/example.c",
+					"settings":
+					{
+						"buffer_size": 1976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1852,
+								1852
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "34248198",
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/routines.h",
+					"settings":
+					{
+						"buffer_size": 1721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "f72bb27c",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/sprites.h",
+					"settings":
+					{
+						"buffer_size": 9739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7053,
+								7053
+							]
+						],
+						"settings":
+						{
+							"auto_name": "const color_t grass_palette[97] = {0x5e80, 0x5e60,",
+							"buffer_scroll_name": "604fb9b7",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1248.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 5279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1086
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "a36fcc55",
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/display_syscalls.h",
+					"settings":
+					{
+						"buffer_size": 4300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1451,
+								1451
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "3a731fef",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/display.h",
+					"settings":
+					{
+						"buffer_size": 1210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "4cc45916",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/keyboard_syscalls.h",
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "5c9c4b23",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/keyboard.hpp",
+					"settings":
+					{
+						"buffer_size": 6733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "7252fbbe",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3132.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/flyingfisch/Desktop/PrizmSDK-0.3/include/color.h",
+					"settings":
+					{
+						"buffer_size": 6051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3001,
+								3001
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "4a47f88e",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1404.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.486006458558,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 108.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"b2b.lua",
+				"/home/flyingfisch/luazm/back2BASIC/b2b.lua"
+			],
+			[
+				"",
+				"/home/flyingfisch/luazm/back2BASIC/b2b.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/flyingfisch/Desktop/PrizmSDK-0.3/projects/test/test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
